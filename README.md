@@ -18,7 +18,8 @@ This Project Analyzes the IPL 2019 Final Match Between Chennai Super Kings and M
 
 # Run Comparison By Overs Between Both Teams In 2019 IPL Final
 
-![image](https://github.com/user-attachments/assets/670d8479-6b6e-4d3d-a88e-bbe255675c75)
+![image](https://github.com/user-attachments/assets/5d2fe1a0-3b69-42ed-834f-ff02143510c6)
+
 
 
 

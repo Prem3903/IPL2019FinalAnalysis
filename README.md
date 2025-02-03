@@ -1,7 +1,7 @@
 # IPL 2019 Final Analysis
 IPL 2019 Final Dashboard Analysis 🏏
 
-This project analyzes the IPL 2019 Final match between Chennai Super Kings and Mumbai Indians. It includes player performance visualizations, scoring trends, and crucial insights using Pandas ,MS Excel and Power BI.
+This Project Analyzes the IPL 2019 Final Match Between Chennai Super Kings and Mumbai Indians. It includes player Performance visualizations, scoring trends, and crucial insights using Pandas ,MS Excel and Power BI.
 
 
 
